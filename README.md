@@ -1,5 +1,5 @@
 # OnlineContactApp-SpringMVC-MySQL-JSP-STL-
-This project include many concepts like #DAO, #Services, #Business Logic, #Controllers, #Loose Coupling, #Modular View, #User Login-Logout, #Session Handing, #CRUD Operation,#Connection Pool(DataSource), #JSTL taglib, #JSP View, #Message error/success and many more.download the source code from this reposotory "OnlineContactApp-SpringMVC-MySQL".and Run
+In OnlineContactApp I implemented many concepts like #DAO, #Services, #Business Logic, #Controllers, #Loose Coupling, #Modular View, #User Login-Logout, #Session Handing, #CRUD Operation,#Connection Pool(DataSource), #JSTL taglib, #JSP View, #Message error/success.
 ------------------------------------------------------------------------------------------------------------------------------------
  OnlineContactApp Functinality
 #MultiUser Application- User & Admin
