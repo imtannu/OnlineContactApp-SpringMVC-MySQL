@@ -17,7 +17,9 @@ In OnlineContactApp I implemented many concepts like #DAO, #Services, #Business 
 #Basic Security
 ------------------------------------------------------------------------------------------------------------------------------------
 #How to Run this Project
-#Download Project or Clone project 
+#Download Project or Clone project
+#import capp.sql file in mysql workbench
+#enter your mysql password in springconfig.java file & save
 #import existing maven project in Eclipse 
 #Right click on project in eclipse 
 #Select Run On Server 
